@@ -30,7 +30,7 @@ export default function ProfileLayout(props: RouteSectionProps) {
             </div>
           </div>
           <div class="text-sm sm:text-base md:text-lg text-label whitespace-nowrap font-mono">
-            E53E D56B 7F20 B7BB
+            FFFF FFFF FFFF FFFF
           </div>
           <div class="text-lg md:text-xl text-label leading-tight md:leading-normal mt-2">
             <For each={pages()}>
