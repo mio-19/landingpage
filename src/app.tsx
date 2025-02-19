@@ -20,7 +20,7 @@ export default function App() {
   const darkColor = flavors.mocha.colors.base.hex;
   return (
     <MetaProvider>
-      <Title>Zaoqi Cao</Title>
+      <Title>Mio</Title>
       <For each={preloadFonts}>{(path) => (
         // TODO custom type
         <Link rel="preload" href={path} as="font" crossOrigin="anonymous" type="font/woff2" />
