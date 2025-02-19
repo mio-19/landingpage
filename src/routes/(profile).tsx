@@ -22,11 +22,11 @@ export default function ProfileLayout(props: RouteSectionProps) {
         <div class="ml-6 flex flex-col justify-center">
           <div class="flex flex-col sm:flex-row sm:space-x-2 items-baseline">
             <div class="leading-tight text-strong rn">
-              <span class="text-3xl sm:text-4xl md:text-5xl font-semibold">Zaoqi Cao</span>
+              <span class="text-3xl sm:text-4xl md:text-5xl font-semibold">Mio</span>
             </div>
-            <div class="font-normal text-2xl sm:text-3xl md:text-4xl text-strong leading-tight pb-1 rn">
+            <div class="font-normal text-xl sm:text-2xl md:text-3xl text-strong leading-tight pb-1 rn">
               <span class="text-label2 pr-2">/</span>
-              Mio
+              Zaoqi Cao
             </div>
           </div>
           <div class="text-sm sm:text-base md:text-lg text-label whitespace-nowrap font-mono">
