@@ -55,7 +55,7 @@ export default function ProfileLayout(props: RouteSectionProps) {
         <div class="mt-8 max-w-3xl text-xs md:text-sm text-label text-center flex flex-col sm:flex-row">
           <p class="sm:mr-auto">
             © {import.meta.env.VITE_LAST_UPDATE_YEAR} Zaoqi Cao.
-            Code available on <a class="text-accent inline-block" href="https://github.com/PhotonQuantum/landingpage">
+            Code available on <a class="text-accent inline-block" href="https://github.com/mio-19/landingpage">
             <SvgBrandGithub class="w-4 h-4 inline-block align-text-bottom" />
           </a>.
           </p>
