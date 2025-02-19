@@ -22,11 +22,11 @@ export default function ProfileLayout(props: RouteSectionProps) {
         <div class="ml-6 flex flex-col justify-center">
           <div class="flex flex-col sm:flex-row sm:space-x-2 items-baseline">
             <div class="leading-tight text-strong rn">
-              <span class="text-3xl sm:text-4xl md:text-5xl font-semibold">Yanning Chen</span>
+              <span class="text-3xl sm:text-4xl md:text-5xl font-semibold">Zaoqi Cao</span>
             </div>
             <div class="font-normal text-2xl sm:text-3xl md:text-4xl text-strong leading-tight pb-1 rn">
               <span class="text-label2 pr-2">/</span>
-              LightQuantum
+              Mio
             </div>
           </div>
           <div class="text-sm sm:text-base md:text-lg text-label whitespace-nowrap font-mono">
@@ -54,7 +54,7 @@ export default function ProfileLayout(props: RouteSectionProps) {
         </div>
         <div class="mt-8 max-w-3xl text-xs md:text-sm text-label text-center flex flex-col sm:flex-row">
           <p class="sm:mr-auto">
-            © {import.meta.env.VITE_LAST_UPDATE_YEAR} Yanning Chen.
+            © {import.meta.env.VITE_LAST_UPDATE_YEAR} Zaoqi Cao.
             Code available on <a class="text-accent inline-block" href="https://github.com/PhotonQuantum/landingpage">
             <SvgBrandGithub class="w-4 h-4 inline-block align-text-bottom" />
           </a>.
