@@ -25,7 +25,7 @@ export default function App() {
   });
   return (
     <MetaProvider>
-      <Title>Yanning Chen</Title>
+      <Title>Mio</Title>
       <For each={preloadFonts}>{(path) => (
         // TODO custom type
         <Link rel="preload" href={path} as="font" crossOrigin="anonymous" type="font/woff2" />
